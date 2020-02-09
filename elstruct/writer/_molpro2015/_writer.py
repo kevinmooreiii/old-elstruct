@@ -25,6 +25,7 @@ class Molpro2015MultiReference():
     """ _ """
     CASSCF = 'casscf'
     CASPT2 = 'rs2'
+    CASPT2I = 'rs2'
     CASPT2C = 'rs2c'
     MRCI_Q = 'mrci'
 

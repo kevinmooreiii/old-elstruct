@@ -150,6 +150,7 @@ ENERGY_READER_DCT = {
     elstruct.par.Method.Corr.CCSD_T_F12[0]: _ccsd_t_f12_energy,
     elstruct.par.Method.MultiRef.CASSCF[0]: _casscf_energy,
     elstruct.par.Method.MultiRef.CASPT2[0]: _caspt2_energy,
+    elstruct.par.Method.MultiRef.CASPT2I[0]: _caspt2_energy,
     elstruct.par.Method.MultiRef.CASPT2C[0]: _caspt2_energy,
     elstruct.par.Method.MultiRef.MRCISDQ[0]: _mrci_energy,
 }

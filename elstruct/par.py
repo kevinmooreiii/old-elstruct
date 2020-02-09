@@ -143,6 +143,10 @@ class Method():
                   {Program.MOLPRO2015: (
                       'rs2', 'rs2',
                       (True,), (True, True))})
+        CASPT2I = ('caspt2i',
+                  {Program.MOLPRO2015: (
+                      'rs2', 'rs2',
+                      (True,), (True, True))})
         CASPT2C = ('caspt2c',
                    {Program.MOLPRO2015: (
                        'rs2c', 'rs2c',
